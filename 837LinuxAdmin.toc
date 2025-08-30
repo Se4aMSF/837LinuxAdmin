@@ -1,0 +1,12 @@
+## Interface: 80300
+## Title: |cffffff00<|r|cFF00E6398.3.7|r|cffffff00>|r |cFF0B7807Linux|rAdmin
+## Author: Se4aMSF
+## Version: 8.3.7
+## Notes: Simple Admin addon for WoW 8.3.7 (Battle for Azeroth) - Based on MoveAnything architecture
+## URL: https://github.com/Se4aMSF/837LinuxAdmin
+## Name: 837LinuxAdmin
+## License: GPLv3
+## DefaultState: Enabled
+## SavedVariables: LinuxAdminDB
+
+837LinuxAdmin.lua
